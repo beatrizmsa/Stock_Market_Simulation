@@ -1,0 +1,4 @@
+spade
+yfinance
+Pillow==10.1.0
+matplotlib==3.8.1
